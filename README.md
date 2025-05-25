@@ -40,7 +40,9 @@ Restored critical systems first, then gradually brought other services back onli
 ---
 
 ## 📎 Attached File
-- `incident_report_nist_ddos.pdf`: Full breakdown of the attack and response plan.
+
+[incident_report_nist_ddos_vinicius.pdf](./incident_report_nist_ddos_vinicius.pdf) – Incident report using the NIST Cybersecurity Framework to analyze a DDoS attack and outline protection, detection, response, and recovery strategies.
+
 
 ---
 
